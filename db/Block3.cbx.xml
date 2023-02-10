@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Block3">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Diagrama_RTC_Completo|divisordos:inst29|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_8ej.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Diagrama_RTC_Completo|divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_8ej.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,761 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -3.540
+TNS   : -89.128
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.332
+TNS   : -0.332
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.272
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.970
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -1.648
+TNS   : -3.520
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -0.748
+TNS   : -0.748
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.686
+TNS   : -0.686
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.581
+TNS   : -0.687
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.531
+TNS   : -0.847
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.433
+TNS   : -0.498
+
+Type  : Slow 1200mV 85C Model Hold 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.255
+TNS   : -0.255
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.100
+TNS   : -0.100
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.040
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.068
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -1.051
+TNS   : -1.051
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.952
+TNS   : -0.952
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -0.637
+TNS   : -0.637
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.615
+TNS   : -0.615
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.605
+TNS   : -0.605
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.572
+TNS   : -0.968
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.408
+TNS   : -0.408
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.381
+TNS   : -0.381
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.249
+TNS   : -0.363
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.194
+TNS   : -0.194
+
+Type  : Slow 1200mV 85C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.024
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.876
+TNS   : -0.876
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.826
+TNS   : -0.826
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.793
+TNS   : -0.793
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.695
+TNS   : -0.695
+
+Type  : Slow 1200mV 85C Model Removal 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.550
+TNS   : -0.550
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.491
+TNS   : -0.491
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.353
+TNS   : -0.353
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.256
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -3.019
+TNS   : -75.790
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.206
+TNS   : -0.206
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.226
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.263
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.290
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.336
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.389
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.933
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -1.519
+TNS   : -3.499
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -0.676
+TNS   : -0.676
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.612
+TNS   : -0.612
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.531
+TNS   : -0.604
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.486
+TNS   : -0.762
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.402
+TNS   : -0.445
+
+Type  : Slow 1200mV 0C Model Hold 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.233
+TNS   : -0.233
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.089
+TNS   : -0.089
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.080
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.842
+TNS   : -0.842
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.743
+TNS   : -0.743
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -0.466
+TNS   : -0.466
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.449
+TNS   : -0.449
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.436
+TNS   : -0.436
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.404
+TNS   : -0.650
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.275
+TNS   : -0.275
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.219
+TNS   : -0.219
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.098
+TNS   : -0.171
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.088
+TNS   : -0.088
+
+Type  : Slow 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.072
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.269
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.807
+TNS   : -0.807
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.762
+TNS   : -0.762
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.723
+TNS   : -0.723
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.632
+TNS   : -0.632
+
+Type  : Slow 1200mV 0C Model Removal 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.509
+TNS   : -0.509
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.463
+TNS   : -0.463
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.335
+TNS   : -0.335
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.224
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.248
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -1.565
+TNS   : -38.909
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.484
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.778
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -1.014
+TNS   : -4.919
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.438
+TNS   : -0.438
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -0.434
+TNS   : -0.434
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.335
+TNS   : -0.439
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.284
+TNS   : -0.504
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.225
+TNS   : -0.305
+
+Type  : Fast 1200mV 0C Model Hold 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.158
+TNS   : -0.158
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.129
+TNS   : -0.151
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.057
+TNS   : -0.057
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.017
+TNS   : -0.017
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.014
+TNS   : -0.014
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.169
+TNS   : -0.169
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.111
+TNS   : -0.111
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.057
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.082
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.095
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.214
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.232
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.511
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -0.480
+TNS   : -0.480
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.429
+TNS   : -0.429
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -0.419
+TNS   : -0.419
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -0.416
+TNS   : -0.416
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -0.316
+TNS   : -0.316
+
+Type  : Fast 1200mV 0C Model Removal 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.303
+TNS   : -0.303
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.244
+TNS   : -0.244
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : 0.158
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -30.456
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisordos:inst30|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_SYNTHESIZED_WIRE_23'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|MOD6:b2v_inst11|synthesized_var_for_SYNTHESIZED_WIRE_18'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst55|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Block2:inst8|RelojRealTIME:b2v_inst|synthesized_var_for_JKFF_inst2'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
